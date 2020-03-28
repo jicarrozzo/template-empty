@@ -1,0 +1,13 @@
+{
+	"GENERIC": {
+		"LANGUAGE": {
+			"TITLE": "язык",
+			"RUSSIAN": "Русский",
+			"ENGLISH": "English",
+			"SPANISH": "Español"
+		}
+	},
+	"HOME": {
+		"TITLE": "Blank Template"
+	}
+}
